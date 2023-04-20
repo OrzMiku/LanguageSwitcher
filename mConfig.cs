@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -26,7 +26,18 @@ namespace LanguageSwitcher
         {
             if (lang == null)
             {
-                lang = File.ReadAllText(path) ?? "1";
+                if (!File.Exists(dir))
+                {
+                    Directory.CreateDirectory(dir);
+                }
+                if (!File.Exists(path))
+                {
+                    File.Create(path).Close();
+                    lang = "1";
+                }
+                else {
+                    lang = File.ReadAllText(path);
+                }
                 fWriteConfig();
             }
         }
