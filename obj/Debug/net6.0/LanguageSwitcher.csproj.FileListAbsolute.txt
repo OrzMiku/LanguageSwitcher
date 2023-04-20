@@ -1,0 +1,16 @@
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\bin\Debug\net6.0\LanguageSwitcher.deps.json
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\bin\Debug\net6.0\LanguageSwitcher.dll
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\bin\Debug\net6.0\LanguageSwitcher.pdb
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\bin\Debug\net6.0\OTAPI.dll
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\bin\Debug\net6.0\TerrariaServer.dll
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\bin\Debug\net6.0\TShockAPI.dll
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\obj\Debug\net6.0\LanguageSwitcher.csproj.AssemblyReference.cache
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\obj\Debug\net6.0\LanguageSwitcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\obj\Debug\net6.0\LanguageSwitcher.AssemblyInfoInputs.cache
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\obj\Debug\net6.0\LanguageSwitcher.AssemblyInfo.cs
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\obj\Debug\net6.0\LanguageSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\obj\Debug\net6.0\LanguageSwitcher.csproj.CopyComplete
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\obj\Debug\net6.0\LanguageSwitcher.dll
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\obj\Debug\net6.0\refint\LanguageSwitcher.dll
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\obj\Debug\net6.0\LanguageSwitcher.pdb
+C:\Users\hello\source\repos\TShock\LanguageSwitcher\LanguageSwitcher\obj\Debug\net6.0\ref\LanguageSwitcher.dll

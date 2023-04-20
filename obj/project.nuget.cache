@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jU8V/e3kK0zRYqkuNCerLWBjBv0mXk2zE/1Mi/219bQY4esGwH0M3znDT7Akjfp0tijL1nL8A1r74XnSroqeVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hello\\source\\repos\\TShock\\LanguageSwitcher\\LanguageSwitcher\\LanguageSwitcher.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hello\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
