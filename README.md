@@ -1,6 +1,10 @@
 # LanguageSwitcher
  A TShock plugin, make your server change language easily.
 
+## Bugs
+
+When using Simplified Chinese(may exist in other languages too, test yourself), the/help command cannot be used (this bug only exists on the mobile end and is not related to the plugin itself, it is TShock's own bug)
+
 ## Command
 
 ```
@@ -26,6 +30,9 @@
 
 # 语言切换器
 一个TShock插件，更简单的切换语言，面板服友好
+
+## 已知Bug
+使用简体中文（也可能存在于其他语言，自行测试）时，无法使用/help命令（此bug仅存在于移动端，且与插件本身无关，系TShock自身Bug）
 
 ## 命令
 
